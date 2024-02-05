@@ -1,0 +1,65 @@
+/* Navbar */
+/* .navbar-nav a{
+  font-size: 20px;
+} */
+
+/* Custom CSS for Navbar */
+
+/* Style the entire Navbar */
+.one {
+  /* background-color: #64d48a; Background color */
+}
+.two{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color:black;
+}
+
+.three{
+  color: black;
+}
+
+/* Style the Brand (Logo or Text) */
+.shop {
+  font-size: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  color: #e7934f; /* Text color */
+  margin-right: 150px;
+  margin-left: 20px;
+  padding: 10px 0;
+}
+
+/* Style the Nav Links */
+.nav-link {
+  color: #ffffff; /* Text color */
+}
+
+/* Style the active Nav Link */
+.nav-link.active {
+  background-color: #396fa5; /* Background color for the active link */
+  color: #343a40; /* Text color for the active link */
+}
+
+/* Hover effect for Nav Links */
+.nav-link:hover {
+  color: #f8f9fa; /* Text color on hover */
+}
+
+/* Style the Nav Items */
+.nav-item {
+  margin-right: 10px; /* Spacing between Nav Items */
+}
+
+/* Style the Nav Pills */
+.nav-pills .nav-link {
+  border-radius: 0; /* Remove border radius for pills */
+}
+
+/* Responsive Navbar */
+/* @media (max-width: 768px) { */
+  /* Mobile styling here, if needed */
+/* } */
+
+
